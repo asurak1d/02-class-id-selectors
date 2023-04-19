@@ -1,1 +1,1 @@
-# 02-class-id-selectors
+In this exercise, I practiced adding CSS styling by class and ID. This is an exercise from The Odin Project for CSS.
